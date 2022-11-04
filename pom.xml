@@ -4,6 +4,9 @@
 	<artifactId>PRJ321x_Project_3_kiennnFX16414new</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+	<properties>
+		<java.version>11</java.version>
+	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.postgresql</groupId>
